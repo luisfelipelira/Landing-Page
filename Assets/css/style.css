@@ -198,6 +198,7 @@
     }
 
     .close-menu-label::after{
+        align-items: center;
         content: '≡';
         position: fixed;
         z-index: 2;
